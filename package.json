@@ -1,0 +1,14 @@
+{
+  "name": "lab-tcpdump",
+  "version": "1.0.0",
+  "description": "Lab exercise for Telematics 2 class at the Sergio Arboleda University.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaime Alonso",
+  "license": "MIT",
+  "dependencies": {
+    "pcap-parser": "^0.2.1"
+  }
+}
